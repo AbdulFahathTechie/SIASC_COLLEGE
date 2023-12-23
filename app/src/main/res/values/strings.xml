@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">SIASC_COLLEGE</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/robotobold</string>
+    <string name="light" tools:ignore="ReferenceType">@font/robotolight</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/robotoregular</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_clg">Shanmuga Industries Arts and Science College, popularly known as SIASC, is a Co-educational institution promoted by Shanmuga Industries Educational Trust, Tiruvannamalai. The objective of the Trust is to enable the college into an institution of excellence and to let the rural youth living in and around Tiruvannamalai to have easy access to higher education. The college is situated in Tiruvannamalai on the Tiruvannamalai - Manalurpet state highway. The premier institute of college education was established in the year1996. Since its founding, SIASC has distinguished itself by providing a higher level of culture, cultivating good discipline and finer value of life among students. The college covers a vast area of land comprising classrooms, laboratories, computing centers, auditorium, hostel, library etc. SIASC has facilities that are exceptional in every way. The environment- friendly green campus and calm atmosphere at SIASC helps an individual to discover himself and the contribution he can make to the human kind.</string>
+    <string name="mathematics_physics_chemistry_biochemistry_microbiology_biotechnology_electronic_science_information_system_management_computer_science_bca_software_computer_science_mca_commerce_commerce_commerce_computer_application_commerce_finance_accounts_business_administration_physical_education"><![CDATA[Mathematics Physics Chemistry Biochemistry Microbiology Biotechnology Electronic Science Information System Management Computer Science BCA Software Computer Science MCA Commerce Commerce Commerce (Computer Application) Commerce (Finance & Accounts) Business Administration Physical Education]]></string>
+</resources>
